@@ -1,0 +1,14 @@
+{
+    "valid": {
+        "login": "vasileva.olga",
+        "password": "12345Q"
+    },
+    "invalid": {
+        "login": "login",
+        "password": "12345A"
+    },
+    "empty": {
+        "login": "",
+        "password": ""
+    }
+}

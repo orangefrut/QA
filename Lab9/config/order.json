@@ -1,0 +1,23 @@
+{
+    "valid": {
+        "login": "olga.vasilyeva1",
+        "password": "12345Q",
+        "name": "name",
+        "email": "test@gmail.com",
+        "address": "Russia"
+    },
+    "busy_email": {
+        "login": "olga.vasilyeva",
+        "password": "password",
+        "name": "name",
+        "email": "olga.vasilyeva@mail.ru",
+        "address": "Russia"
+    },
+    "busy_login": {
+        "login": "olga.vasilyeva",
+        "password": "password",
+        "name": "name",
+        "email": "test@gmail.com",
+        "address": "Russia"
+    }
+}
